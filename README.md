@@ -85,5 +85,12 @@
 </code>
 </pre>
 </div>
+<h2>Questions</h2>
+<h3>How long did you spend completing the challenge?</h3>
+<p>Around 3 hours</p>
+<h3>Given more time, what could you do to improve your solution?</h3>
+<p>I will design the UI which can change the random fact, so the animation will be changed. Also, I will create a web page for user to vote the most popular cat fact. Thus, all the users can have fun in this interactive web page.</p>
+<h3>What did you think of the challenge?</h3>
+<p>It is interesting and I enjoy it.</p>
 
 
